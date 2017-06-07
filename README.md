@@ -10,3 +10,6 @@ Thanks for @allanragec, @brandizzi, @cleydyr, @feliperp-81, @natocesarrego,
 @ricardofunke, @victorlaerte and @walber (is someone missing?) for the amazing 
 event!
 
+(Before the dojo, we used [these 
+slides](https://www.slideshare.net/AdamVictorBrandizzi/haskell-76743344) to get 
+an overview about Haskell. They are in Brazilian Portuguese, though.)
